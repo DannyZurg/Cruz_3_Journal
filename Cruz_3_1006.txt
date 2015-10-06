@@ -1,0 +1,4 @@
+A method is a little program.
+
+A class is a category of things.
+  
