@@ -1,0 +1,6 @@
+A java class is a domain. It's like a blueprint or template where your code lives and 
+where you work.
+
+A java class for Java FX would be Java application.
+
+A method for this class could be  
