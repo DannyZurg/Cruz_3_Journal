@@ -1,0 +1,14 @@
+The three guiding rules/princeples for the class are tinker, talk to others,
+and no electronics.
+
+If a student has a problem with a code then they are to tinker with it or 
+ask a neighbor for their help. 
+
+The steps of the problem solving process:
+1)Define the problem 
+2)Generate solutions
+3)Decide a course of actions
+4)Implement the solution
+5) Evaluate the solution
+
+  

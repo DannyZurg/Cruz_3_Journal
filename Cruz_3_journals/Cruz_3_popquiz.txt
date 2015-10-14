@@ -1,0 +1,4 @@
+The difference between the MIT and GPL license is that the MIT license 
+is for MIT and the GPL is for all the public. We will use the GPL 
+because we arent in MIT. The logo on your shirt is the penguin 
+that represents linux.  

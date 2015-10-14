@@ -1,0 +1,5 @@
+To count in Java you have to use an operator called increment operator.
+
+To check if a number is divisible in Java, type if(i%2 !=0)
+
+

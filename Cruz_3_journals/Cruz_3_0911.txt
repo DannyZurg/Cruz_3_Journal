@@ -1,0 +1,2 @@
+Pseudocode is a notation resembling a simplefied programing language, used in program design
+ 

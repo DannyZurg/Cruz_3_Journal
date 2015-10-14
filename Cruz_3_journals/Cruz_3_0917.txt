@@ -1,0 +1,6 @@
+The five different Java data types are and are used for:
+1)int- an integer 
+2)float-a floating point decimal
+3)short,long,double- other numbers with decimals
+4)char-just one character 
+5)string- alot of characters 

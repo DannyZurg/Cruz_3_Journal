@@ -1,0 +1,3 @@
+A method is a funtion; almost like a little program.
+Methods are good for solving problems. we can use different methods to find primes by 
+using different codes that we believe will help us achieve our goal.
