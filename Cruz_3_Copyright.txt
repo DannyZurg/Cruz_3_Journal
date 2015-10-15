@@ -1,0 +1,58 @@
+Copyright: The right to film, print, publish, perform, or record material from sources
+such as books, movies, or even music this right must be given by the creator of the work
+if not it is copyright infringement.
+
+Copyleft: An open agreement that software or artistic work can be modified and changed or
+even distributed freely on condition and that anything that comes from it is bound
+by the same condition. 
+
+Fair Use: States that very small and brief excerpts of copyright material may be quoted 
+for purposes such as criticism, news reporting, teaching, and research without the
+need of permission or payment under any circumstances.
+
+Free Speech: The right to express your opinion and speak publically without being 
+silenced you have the freedom to say whatever you want. 
+
+Free Software: Software that gives the user freedom to run the software for any 
+purpose as well as to study, change, and distribute the software without needing permission
+
+Freeware: This is software that is free of charge and doesnt require payment but you still must use it the way it was intended to be use this software can NOT be 
+distributed, modified, or changed without permission. 
+
+Public Domain: Something that is belonging or available to a public audience as a 
+whole, and is not subject to copyright.
+
+File-sharing: The process of sharing files to other people and distibuting files to
+others with your permission. 
+
+Piracy: The act of copying films or music without permission of the artist or creator
+
+Plagarism: Stealing ones words and claiming them as your own without giving credit 
+to the author or creator.
+
+Infringement: The act of breaking the laws or agreement etc
+
+Proprietary: Something that is of or relating to the owner or ownership, an owner
+
+Open Source: Software that is made freely available to the public and may be 
+redistributed or modified
+
+GNU GPL: The most widely used free software license which guarantees users the 
+freeddom to run, share, modify, and distribute the software
+
+License: A permit that gives permission to own or use something or carry on in a 
+particular trade 
+
+MIT License: MIT license is a free license that permits reuse within proprietary 
+software provided all copies
+
+Apache License: A free software license written by the Apache Software Foundation it 
+requires preservation of the copyright notice and disclaimer 
+
+EULA: A legal contract between a software application author or publisher and the 
+user of that application. 
+
+Creative: Involving or related to original ideas especially in the creation of 
+artwork such as paintings, music, scultpures, etc 
+
+Commons: A piece of open land for public use
