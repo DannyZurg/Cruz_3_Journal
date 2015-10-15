@@ -1,0 +1,5 @@
+A naming convention is important because it helps determine a file's name and purpose.
+To copy in linux you have to use the cp Command which is cp source destination
+cp dir1 dir2
+cp -option  source destination
+cp -option1 -option2  source destination
