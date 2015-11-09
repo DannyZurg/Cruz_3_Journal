@@ -1,0 +1,3 @@
+A method is a small program that mkes things happen inside the big program.
+
+
