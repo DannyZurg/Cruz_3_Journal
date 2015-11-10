@@ -1,0 +1,7 @@
+You can put a counter in the program so that after they have solved the 
+challenge, they can't do it again.
+
+To track HP and items you can put in a method that subtracts the number of
+damage points that were inflicted , from the current number of HP. For items 
+you can make some sort of method that gives the player a storage that you can 
+check. 
