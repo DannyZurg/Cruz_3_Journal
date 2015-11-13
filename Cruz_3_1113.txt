@@ -1,0 +1,7 @@
+If i die in the game it will start the game over and I will come back to life 
+to try again.
+
+I will use methods to make it possible for the player to answer the question
+that the videogame character will ask.
+
+
