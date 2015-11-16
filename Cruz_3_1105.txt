@@ -1,0 +1,3 @@
+Strings are a sequence of letters and numbers. They are good for writing a
+lot of code.
+

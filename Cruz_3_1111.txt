@@ -1,0 +1,2 @@
+The objective of my game is to have the charater survive going into a dungeon
+and getting all of the gold from the enemy.
