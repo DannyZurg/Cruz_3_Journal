@@ -1,0 +1,3 @@
+I was succesful with my game because the first part is to choose you type of fighter.
+This part was pretty complicated to me because I had to make 5 different methods to make 
+that part possible. 
