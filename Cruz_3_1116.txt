@@ -1,0 +1,5 @@
+I will use methods to make different choices in the game. For example, in order to 
+move on you have to choose a direction. The different directions have a different affect
+on you so I have to make a different method for both of them.
+
+I do not know what the values are that I am supposed to pass to my methodss.
