@@ -1,3 +1,10 @@
-A method is a small program that mkes things happen inside the big program.
+A method is a small program that we use to catorgorize what we're doing in the program.
+It lets us know where we've gone wrong. The methods I used were static void playthegame
+and static void guess3Times. I used them to tell the player how many guesses they had
+left and the directions of what to do. Also to tell them if they guessed too high or too
+low. A while loop is a funtion that we put in our code to repeat the action in the code 
+until the boolean is true. I used my while loop to continue showing that they guessed
+wrong. I used a boolean to have a number that was true so that if the player guessed 
+correctly boolean is true. The counter I used made it so that once the player either used all thier guesses or guessed right, it would let them try agoin in the end. 
 
 
