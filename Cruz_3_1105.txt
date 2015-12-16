@@ -1,3 +1,2 @@
-Strings are a sequence of letters and numbers. They are good for writing a
-lot of code.
+Strings are a sequence of letters and numbers. They are good for commenting in your code. An example of a method is int length();. We can identify them by knowing that strings are just a series of letters.
 
