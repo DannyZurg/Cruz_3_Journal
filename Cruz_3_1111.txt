@@ -1,2 +1,4 @@
 The objective of my game is to have the charater survive going into a dungeon
-and getting all of the gold from the enemy.
+and getting all of the gold from the enemy. The way I'll track that this has been solved is if
+the player has lost health. This tells me which direction they have gone and that decides the next method
+that will take action.
