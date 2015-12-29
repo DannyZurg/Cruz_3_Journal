@@ -1,5 +1,6 @@
 I will use methods to make different choices in the game. For example, in order to 
-move on you have to choose a direction. The different directions have a different affect
-on you so I have to make a different method for both of them.
+move on you have to choose a direction. The different directions have a different method that gives you another choice.
+So if you go right or left, you'll have a different challenge, but a method must be setup 
+to show which way you have decided to go.
 
 I do not know what the values are that I am supposed to pass to my methodss.
