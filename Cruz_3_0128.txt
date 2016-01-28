@@ -1,0 +1,1 @@
+Its a class because it says render and I recognize that as a class that was nessesary in our slick game.
