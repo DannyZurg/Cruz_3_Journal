@@ -1,0 +1,5 @@
+A class constructor is a subroutine that creates a new object.It prepares the new object to be used.
+
+We should include something that will allow us to give the orb a color.
+
+Orb should have a method having to do with the amount of damageit will do to the player.
