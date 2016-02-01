@@ -1,0 +1,2 @@
+What prevented the timely completion of my game was how I couldn't figure out how to change the game's map to my map.
+Now my problem is to make my enemy appear in the game.
