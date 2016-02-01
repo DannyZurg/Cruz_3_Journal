@@ -1,0 +1,7 @@
+I left the game the same where you collect health and speed potions to find an antidote
+but the potions and antidotes are a person...AND HIS NAME IS JOHN CENA!!! I changed
+my sprite so that he had gold armor and a spear. I finished making my map but I didn't
+start making my spritesheet. I didn't have enough time because of how hard it was to keep
+some parts of the map straight. I havent been able to meet the timeline so far because
+my map wont go into the game and my enemy wont appear.
+
