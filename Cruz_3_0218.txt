@@ -14,15 +14,23 @@ public Animation Playeranime, up, down, left, right, sprite, wait;
         up.addFrame(runningSS.getSprite(6, 8), 330);
         up.addFrame(runningSS.getSprite(7, 8), 330);
         up.addFrame(runningSS.getSprite(8, 8), 330);
-        It loads a spritesheet.
+        It loads the spritesheet.
 
-Why would it be unrealistic / unproductive  to memorize Slick syntax - what are the skills we were trying to practice?
+Why would it be unrealistic / unproductive to memorize Slick syntax - what are the skills we were trying to practice?
 It would be unrealistic to memorize Slick syntax
 
 What is an array?
 An array is data structure (type of memory layout) that stores a collection of individual values that are of the same data type.
 
 How do you make an array? Give an example.
+One way to create the array would be to use the code int[] anArray;. 
+Another way to create an array would be tovuse this code:
+anArray = new int[10];.
+e.g. int[]anArray{
+100,200,300,
+400,500,600,
+700,800,900,1000
+};
 
 What is an ArrayList?
  a resizable array that can hold different objects.
