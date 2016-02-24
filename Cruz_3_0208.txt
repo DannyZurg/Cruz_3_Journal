@@ -1,0 +1,3 @@
+To check wheather or not weapons damage enemies or objects in our games, one could
+give the enemy or object a health bar of some sort or they could keep attacking until
+the animation of dying shows up or the enemy/object dissapears.
