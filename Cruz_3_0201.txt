@@ -1,0 +1,3 @@
+Some things that we will do to make our games our own will be to change the
+sprite to what we want it to look like, change the map to our own, add an 
+enemy, and change the potions to our own choice of a picture.
