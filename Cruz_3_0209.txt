@@ -1,2 +1,8 @@
-I can give it a code where it follows me like my enemy does.
-The code would be 
+By making the orb shoot foward, I can use this code to make the button that shoots it the spacebar:
+}else if (input.isKeyDown(Input.KEY_SPACE)){
+orb1.setX((int)player.x());
+orb1.setY((int)player.y());
+orb1.hitbox.setX(orb1.getX());
+orb1.hitbox.setY(orb1.getY());
+orb1.setISVisible(!orb1.IsVisible());
+}
