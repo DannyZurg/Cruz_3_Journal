@@ -1,2 +1,4 @@
-Its a method because even though it says render and I recognize that as a class that was nessesary in our slick game, the code would have to say public class to be a class.
+Its a method because even though it says render, 
+and I recognize that as a class constructor that was nessesary in our slick game, 
+the code would have to say public class to be a class. Methods do what they're told to do.
 
