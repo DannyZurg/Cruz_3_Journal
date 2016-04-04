@@ -1,0 +1,10 @@
+What have you done?
+Made our music play.
+What do you need to do?
+Make a pattern with the lights to follow the music.
+What will you be able to turn in on Friday?
+We should,if we move at a constant pace, have the song and light show finished
+What code changes are you writing?
+Teh only changes we have made so far were to making more beats to the music.
+What functions have you created?
+We haven't created any functions yet.
