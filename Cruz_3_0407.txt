@@ -1,0 +1,7 @@
+One thing that I learned while using the aurdino was how to add new notes so that the piezo played those notes.
+We had to add a new number of beats and the song length had to be lengthend. The rests counted as well.
+Another thing that I learned was how precise the wires and resistors had to be placed. If a wire wasn't in the same row as 
+whatever object, it wouldn't work. When we added a light in an area that we didn't use before, we had to make sure the wire went 
+to the light the same way as the rest.
+Finally, the other thing I learned was how careful you have to be with the code. One small typo could ruin the whole thing.
+In the end we were able to get help and figure it out.
