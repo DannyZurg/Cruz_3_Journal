@@ -1,0 +1,16 @@
+For what computational reason did you type elf64?
+Because it's a 64 bit operating system.
+Why did you use ld?
+
+Why did you not have to use chmod to make sample executable?
+
+Now - change the code to print your name. You should change the program so that it actually prints your name.
+Post the code in your journal
+
+What problem did you have to solve to get it to work?
+
+Given your actual experience with Assembly now --- Is assembly 'quick and easy'? Why or why not?
+No it isn't quick or easy. Just to say "was this easy?" it took me about 3 minutes to type something I was copying.
+
+What does 'low level' actually mean with regards to programming languages?
+It takes longer to use. To tell the program what to do you have to give it more instructions.
