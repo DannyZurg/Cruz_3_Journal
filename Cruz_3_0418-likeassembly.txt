@@ -1,0 +1,5 @@
+What similarities do you notice between assembly and Human Resource Machine?
+They both have a conditional jump. In Human Resource there is a jump that only works with zeroes.
+
+What differences do you notice between assembly and Human Resource Machine?
+Jumps are a little more specific in assembly/
