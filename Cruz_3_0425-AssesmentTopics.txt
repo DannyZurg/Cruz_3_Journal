@@ -1,0 +1,15 @@
+What are 10 concepts you believe will be covered on the test. Why?
+
+1.How assembly is similar to Human Resource Machine.
+2.How assembly is different to Human Resource Machine.
+3.Using Arduino.
+4.Using NetBeans.
+5.for loops,data types,etc.
+6.Slick
+7.Using Assembly.
+8.What Assembly looks like.
+9."What does this do?"
+10.Low level and High level programing.
+Why?
+These are all things that we have worked on these past few weeks and that we've been talking about.
+They seem to be the most likely things that we would get tested on.
