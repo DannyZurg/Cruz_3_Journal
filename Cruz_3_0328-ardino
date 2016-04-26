@@ -1,3 +1,18 @@
-1.
-2.We have not made any adaptaions because we didn't see anything that was wrong.
-3.
+WHAT DIFFERENCES AND SIMILARITES HAVE YOU NOTICED? PROVIDE AT LEAST 3 AND EXPLAIN IN COMPLETE SENTENCES.
+To what?
+WHAT CODE ADAPTATIONS HAVE YOU MADE? [OR WILL YOU MAKE IF NONE TO DATE. NOTE: 'NONE' IS NOT A VALID ANSWER]
+We have not made any adaptaions because we didn't see anything that was wrong. We will have to put two sets of code together later
+though.
+
+WHAT IS REQUIRED FOR A CIRCUIT?
+A source of energy.
+A conductive path which would allow for the movement of charges.
+And an electrical resistor which is loosely defined as any object that uses electricity to do work.
+
+HOW ARE PROGRAMS COMPILED WITH ARDUINO?
+First, the Arduino environment performs some small transformations to make sure that the code is correct C or C++. 
+It then gets passed to a compiler, which turns the human readable code into machine readable instructions. 
+Then, your code gets combined with the standard Arduino libraries that provide basic functions like digitalWrite() or Serial.print(). 
+The result is a single Intel hex file, which contains the specific bytes that need to be written to the program memory of the chip 
+on the Arduino board. This file is then uploaded to the board: transmitted over the USB or serial connection via the bootloader 
+already on the chip or with external programming hardware.
