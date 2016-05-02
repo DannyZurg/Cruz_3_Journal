@@ -1,0 +1,35 @@
+What is an array?
+An array is data structure (type of memory layout) that stores a collection of individual values 
+that are of the same data type.
+
+How does one make a simple array of Strings?
+char[] map= new char[10];
+
+What is the syntax for a 2-D array?
+char[][] map= new char [10][10];
+
+What is the syntax for a 3-D array?
+char[][][]map = new char[10][10][10];
+
+How does one change the value for the third value in a one dimensional array? [Give specific code]
+
+What is the syntax for a while loop?
+while(){
+}
+Why use while loops in your game?
+If someone doesn't use a number that can be printed on the array or puts in something that isn't a 
+number, it can be put as false and end the code or make them try again until the right conditions
+are met.
+
+Your game should be in a method outside of main --- How will you call your game in main?
+Make it public so the whole game can access it.
+
+Why was it recommended that you use .toLowerCase() with your Scanner input?
+In case a person typed only with lower case instead of uppercase and the game would still run.
+
+You should use different methods when moving the protagonist and to check for intersections. How? Why?
+Because if 
+
+What values will you pass across methods? how? why?
+The coordinates because they will be needed to be put on the array. I would put them inside the 
+parenthesis.
