@@ -1,0 +1,2 @@
+Explain why you would not initialize the hero in class hero?
+You wouldn't initialize the hero in class hero because then you wouldn't be able to call hero anywhere else.
