@@ -1,0 +1,19 @@
+The Slick assignment was intended to gently familiarize you with 2-D arrays. Some students recognized the 2-D arrays from 
+Slick and previous journals --- other students had no recollection. Which were you? Why? Note - attributing the environment 
+is not pragmatic - as students experienced the same environment (though they might have experienced it differently)Make a 
+list of ten questions related to the Array assignments pt 1 and 2 - that you predict will be on the semester exam.
+E.g., object initialization, class constructors, creating and changing arrays, etc.
+
+I remembered a quite a bit from the other things we did with arrays. I remembered how we used arraylists to keep all the 
+things that were the same(enemies,traps,and healthpotions) together.
+
+1.How would you create a class object?
+2.How would you end a while loop?
+3.How did the player lose in your array game?
+4.How did your player get killed by enemies?
+5.How did your player move in different directions?
+6.What data type did you use to make your array?
+7.How did you make the difficulty increase?
+8.How did the traps not appear but still harm the player?
+9.How did you make your walls?
+10.How did you upgrade your player?
