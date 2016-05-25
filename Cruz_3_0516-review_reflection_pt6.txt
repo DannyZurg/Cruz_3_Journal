@@ -1,0 +1,32 @@
+Explain casting. Up-casting, Down-casting.
+Upcasting:Becoming very generalized, less specific
+Downcasting:Becoming very detailed and specific
+
+Give a specific code example for up-casting
+ Cat c1 = new Cat();		 
+    Animal a = c1;		 //upcasting to Animal
+    if(a instanceof Cat){ // testing if the Animal is a Cat
+        System.out.println("It's a Cat! Now i can safely downcast it to a Cat, without a fear of failure.");        
+        Cat c2 = (Cat)a;
+    }
+Give a specific code example for down-casting
+class Animal {
+	int health = 100;
+}
+class Mammal extends Animal { }
+class Cat extends Mammal { }
+class Dog extends Mammal { }
+public class Test {	 
+	 public static void main(String[] args) {
+		 Cat c = new Cat();
+		 System.out.println(c.health);
+		 Dog d = new Dog();
+		 System.out.println(d.health);
+	 }  
+}
+Give a specific code example for converting a char to a String
+
+What is the range of values for byte? Why?
+
+I got the answers of up and down casting from 
+http://www.cs.utexas.edu/~cannata/cs345/Class%20Notes/14%20Java%20Upcasting%20Downcasting.htm
